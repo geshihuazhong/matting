@@ -1,5 +1,6 @@
 # matting
-人像像素级抠图
+像素级人像抠图
+代码整理中，稍后上传
 
 ![Image text](https://github.com/geshihuazhong/matting/blob/main/test/006AfEgvgy1g47h8ockcnj31jk2bc4qu.png)
 ![Image text](https://github.com/geshihuazhong/matting/blob/main/test/006MlUtvly1goeh3pgepoj30u0141tc4.png)
